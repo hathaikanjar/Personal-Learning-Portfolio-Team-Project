@@ -4,3 +4,19 @@ body {
   background: #f3f4f8;
   font-family: "Montserrat", "Poppins", sans-serif;
 }
+
+header {
+  background: #c8cfda;
+  border: 16px solid #f8f8f8;
+  border-bottom: 5;
+  padding: 16px 60px 20px;
+}
+
+h1 {
+  margin: 0;
+  text-align: center;
+  font-size: 48px;
+  font-weight: 800;
+  color: #1f1b1b;
+  line-height: 1.2;
+}
